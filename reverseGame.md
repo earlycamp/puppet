@@ -12,6 +12,7 @@
 
 
 <hr>
+
 ## about project
 
 This is a reveral game where a user inputs a word and it reverses for them and tells them whether the input is reversable or not.
