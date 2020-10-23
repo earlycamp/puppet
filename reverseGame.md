@@ -22,7 +22,7 @@ This is a reveal game where a user inputs a word and it reverses for them and te
 
 This is the expected output as you run your program:
 
-`Hello`
+`GoodMorning` - Depending on time of day
 
 `what is your name?:` say the user says `username`
 
@@ -46,7 +46,37 @@ Use the following greetings depending on what the user says:
 
     * `d` - It will say  nothing as in `Thank you username!We respect your right to not tell us.`
 
+then
 
+    To proceed in the game choose an option:
+        a. Play
+        b. Learn the rules
+
+If user selects a:
+
+ `Welcome to the reverse Game:
+ Please enter a word to continue:`
+
+-  If the user enters a letter:
+
+    `Please input a word and not a letter`
+
+-  If the user enters nothing/ Presses Enter / Space:
+
+    `You did not enter anything. Please input a word!`
+
+
+If user selects b:
+
+    Here are the rules:
+     1. Enter word that you think can be read forwards and backwards
+     2. if it is correct you will score 1 point.
+     3. If it is wrong you get 0 points.
+
+
+
+
+Then picks the greeting
 ## Challenge To Do List
 Check for the following features:
 
