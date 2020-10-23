@@ -15,7 +15,7 @@
 
 ## about project
 
-This is a reveral game where a user inputs a word and it reverses for them and tells them whether the input is reversable or not.
+This is a reveal game where a user inputs a word and it reverses for them and tells them whether the input is reversable or not.
 <hr>
 
 ## User Flow
@@ -30,10 +30,10 @@ This is the expected output as you run your program:
 
 `Are you male(M) or female(F) or do not wish to disclose (d)?:`
 
-Ue the following greetings depending on what the user says:
-`f` - it will say `Lady` as in `Thank you Lady username`
-`m` - it will say `Mr.` as in `Thank you Mr. username`
-`d` - It will say  nothing as in `Thank you username!We respect your right to not tell us.`
+Use the following greetings depending on what the user says:
+    * `f` - it will say `Lady` as in `Thank you Lady username`
+    * `m` - it will say `Mr.` as in `Thank you Mr. username`
+    * `d` - It will say  nothing as in `Thank you username!We respect your right to not tell us.`
 
 
 ## Challenge To Do List
