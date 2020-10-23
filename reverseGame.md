@@ -28,13 +28,13 @@ This is the expected output as you run your program:
 
 `Thank you username`
 
- `Are you :
+`Are you :`
 
-    1. male(m)
+    `1. male(m)
 
-    2. female(f)
+     2. female(f)
 
-    3 do not wish to disclose (d)?
+     3 do not wish to disclose (d)?
 
     Please provide the reply here:`
 
