@@ -30,11 +30,11 @@ This is the expected output as you run your program:
 
 `Are you :`
 
-    `1. male(m)
+    * male(m)
 
-     2. female(f)
+    * female(f)
 
-     3 do not wish to disclose (d)?
+    * do not wish to disclose (d)?
 
     Please provide the reply here:`
 
