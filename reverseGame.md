@@ -6,7 +6,7 @@
 <br>
 
 ## Table of contents
-- [about app](#about-app)
+- [about app](#about-project)
 - [About the Project](#)
 - [General Preview](#)
 - [Technical](#)
@@ -16,9 +16,8 @@
 
 
 <hr>
-### about app
-Short description of how it works: maybe a small user flow description.
-
+### about project
+This is a reveral game where a user inputs a word and it reverses for them and tells them whether the input is reversable or not
 <hr>
 ### GENERAL PREVIEW
 #### Screenshots of the app
