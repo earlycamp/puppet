@@ -29,6 +29,7 @@ This is the expected output as you run your program:
 `Thank you username`
 
 `Are you :
+
     1. male(m)
 
     2. female(f)
