@@ -6,22 +6,20 @@
 <br>
 
 ## Table of contents
-- [about app](#about-project)
-- [About the Project](#)
-- [General Preview](#)
-- [Technical](#)
-    - [Project Dependencies](#)
-- [To Do List](#)
-
+- [About the Project](#about-project)
+- [User Flow](#)
+- [Challenge To Do List](#)
 
 
 <hr>
-### about project
-This is a reveral game where a user inputs a word and it reverses for them and tells them whether the input is reversable or not
+## about project
+
+This is a reveral game where a user inputs a word and it reverses for them and tells them whether the input is reversable or not.
 <hr>
 
 ## User Flow
-this is the expected output as you run your program:
+
+This is the expected output as you run your program:
 
 `Hello`
 
@@ -32,10 +30,9 @@ this is the expected output as you run your program:
 `Are you male(M) or female(F) or do not wish to disclose (d)?:`
 
 Ue the following greetings depending on what the user says:
-`f` - it will say `Lady` as in `Thank you Lady Sarah`
-`m` - it will say `Mr.` as in `Thank you Mr. Sarah`
-`d` - It will say  nothing as in `Thank you Sarah!We respect your right to not tell us. 
-it will greet them as `Thank you Lady
+`f` - it will say `Lady` as in `Thank you Lady username`
+`m` - it will say `Mr.` as in `Thank you Mr. username`
+`d` - It will say  nothing as in `Thank you username!We respect your right to not tell us.`
 
 
 ## Challenge To Do List
