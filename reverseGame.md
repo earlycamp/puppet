@@ -31,8 +31,11 @@ This is the expected output as you run your program:
 `Are you male(M) or female(F) or do not wish to disclose (d)?:`
 
 Use the following greetings depending on what the user says:
+
     * `f` - it will say `Lady` as in `Thank you Lady username`
+
     * `m` - it will say `Mr.` as in `Thank you Mr. username`
+
     * `d` - It will say  nothing as in `Thank you username!We respect your right to not tell us.`
 
 
