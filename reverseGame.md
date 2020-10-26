@@ -68,10 +68,26 @@ If user selects a:
 
 If user selects b:
 
-    Here are the rules:
+    Hey there username! Here are the rules username:
      1. Enter word that you think can be read forwards and backwards
      2. if it is correct you will score 1 point.
      3. If it is wrong you get 0 points.
+
+where `username` is the name they entered at the top.
+
+If user selects a:
+
+    welcome to reverseGame username, please enter a word that you think is reversible:
+
+If the user gets the answer right:
+
+    You are correct username! You scored 1 point. Do you want to play again?
+
+If the user gets the answer wrong:
+
+    OOps username! That is wrong! You scored 0 points. Do you want to try again?
+
+after these, it should take the user back to the play menu
 
 
 
