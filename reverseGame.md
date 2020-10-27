@@ -100,7 +100,7 @@ If the user selects `b` it should tell them:
     `Thank you username for playing Reverse Game. You scored x points.
     Come back again and play.`
 
-
+The game should be able to add and update the points.
 
 
 
