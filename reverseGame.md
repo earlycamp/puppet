@@ -81,13 +81,25 @@ If user selects a:
 
 If the user gets the answer right:
 
-    You are correct username! You scored 1 point. Do you want to play again?
+    You are correct username! You scored 1 point.
+    Do you want to:
+        a. Play again?
+        b. Exit the game?
 
 If the user gets the answer wrong:
 
-    OOps username! That is wrong! You scored 0 points. Do you want to try again?
+    OOps username! That is wrong! You scored 0 points.
+    Do you want to:
+        a. Try again?
+        b. Exit the game?
 
-after these, it should take the user back to the play menu
+If the user selects `a` it should take the user back to the play menu
+
+
+If the user selects `b` it should tell them:
+    `Thank you username for playing Reverse Game. You scored x points.
+    Come back again and play.`
+
 
 
 
