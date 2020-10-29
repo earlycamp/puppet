@@ -92,14 +92,16 @@ If user selects a:
 
 If the user gets the answer right:
 
-    You are correct username! You scored 1 point for {TeamName}.
+    You are correct username! You scored 1 point for {TeamName}. {TeamName} now has Z points.
     Do you want to:
         a. Play again?
         b. Exit the game?
 
+Where Z is the total score of the game.
+
 If the user gets the answer wrong:
 
-    OOps username! That is wrong! You scored 0 points for {TeamName}.
+    OOps username! That is wrong! You scored 0 points for {TeamName}. {TeamName} now has Z points.
     Do you want to:
         a. Try again?
         b. Exit the game?
