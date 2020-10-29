@@ -7,8 +7,7 @@
 
 ## Table of contents
 - [About the Project](#about-project)
-- [User Flow](#)
-- [Challenge To Do List](#)
+- [User Flow](#user-flow)
 
 
 <hr>
